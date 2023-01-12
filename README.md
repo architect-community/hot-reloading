@@ -24,8 +24,8 @@ Architect component specs are declarative, so it can be run locally or remotely 
 
 ```sh
 # Clone the repository and navigate to this directory
-$ git clone https://github.com/architect-team/architect-cli.git
-$ cd ./architect-cli/examples/hot-reloading
+$ git clone https://github.com/architect-community/hot-reloading.git
+$ cd ./hot-reloading
 
 # Deploy using the dev command
 $ architect dev ./architect.yml
